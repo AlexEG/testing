@@ -2,10 +2,8 @@ body{
     background-color: hsla(294, 45%, 47%, 0.666);
 }
 button{
-    position: absolute;
- top: 40%;
- left: 40%;
  padding: 10px;
+ margin: 50px;
 
 }
 .one{
