@@ -19,4 +19,5 @@
 a{
     font-size: 2rem;
     color: hsl(324, 97%, 51%);
+    z-index: 999;
 }
