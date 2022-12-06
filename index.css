@@ -1,0 +1,22 @@
+
+.page1{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(79, 33, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page2{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(78, 236, 178);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    font-size: 2rem;
+    color: hsl(324, 97%, 51%);
+}
