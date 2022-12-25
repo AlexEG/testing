@@ -25,3 +25,40 @@ https://alexeg.github.io/testing/
     
     
     # ${This\ is\ a\ {\color{red}Big}}\ Title$
+
+
+<!-- ////////////////////////// -->
+<!--=========[ CodePen ]=========-->
+<!-- <a href="https://codepen.io/Alexander_EG" target="_blank"><img src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/Alexander_EG" alt="CodePen"></a> -->
+<!--=============================-->
+<!-- ////////////////////////// -->
+<!-- [<img alt="0" src="https://visitor-badge.glitch.me/badge?page_id=AlexEG.AlexEG">](#) --> 
+<!-- <a href="#" target="_blank"><img src="" alt="00"></a> -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) --> 
+<!-- ////////////////////////// -->
+<!-- ===================== -->
+<!-- <details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AlexEG&theme=radical&no-frame=true&no-bg=true" alt="AlexEG" />
+</p>
+</details> -->
+<!-- ===================== -->
+<!-- ===================== -->
+<!--
+ <table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+-->
