@@ -1,4 +1,4 @@
-https://alexeg.github.io/testing/
+[Live Demo](https://alexeg.github.io/ "check it out")
  
  > __Note__  This repo/site is just for testing different stuff.
  > 
